@@ -1,0 +1,8 @@
+tensorflow
+scikit-learn
+tinyfish
+python-dotenv
+opencv-python
+matplotlib
+numpy
+jupyter
