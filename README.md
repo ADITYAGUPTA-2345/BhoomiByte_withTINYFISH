@@ -1,8 +1,8 @@
-# 🌱 Crop_Dekho
+# 🌱 BhoomiByte
 
 ### AI-Powered Rice Crop Support Platform
 
-crop_dekho is an agricultural support platform designed to help rice farmers identify possible leaf diseases and find practical, easy-to-understand guidance. It combines machine-learning-based disease detection with visual explanations and pesticide-label assistance, with a separate planned TinyFish module for online agricultural tasks.
+ BhoomiByte is an agricultural support platform designed to help rice farmers identify possible leaf diseases and find practical, easy-to-understand guidance. It combines machine-learning-based disease detection with visual explanations and pesticide-label assistance, with a separate planned TinyFish module for online agricultural tasks.
 
 **Crop focus:** Rice 🌾
 
@@ -116,7 +116,7 @@ BhoomiByte aims to help farmers:
 
 ## 🔭 Future Vision
 
-The long-term vision is to develop crop_dekho into a farmer-friendly rice crop support platform with:
+The long-term vision is to develop BhoomiByte into a farmer-friendly rice crop support platform with:
 
 - Stronger validation on real-world field images.
 - Multilingual and accessible guidance.
@@ -125,7 +125,7 @@ The long-term vision is to develop crop_dekho into a farmer-friendly rice crop s
 
 ## 🛡️ Responsible Use
 
-crop_dekho is intended to support—not replace—professional agricultural advice.
+BhoomiByte is intended to support—not replace—professional agricultural advice.
 
 - AI predictions can be incorrect, particularly when image quality is poor or field conditions differ from the training data.
 - OCR can misread pesticide labels. Always verify product details against the official label.
@@ -135,4 +135,4 @@ crop_dekho is intended to support—not replace—professional agricultural advi
 
 ---
 
-**Crop_Dekho 🌱 — Smarter Rice Farming Through Machine Learning.**
+**BhoomiByte 🌱 — Smarter Rice Farming Through Machine Learning.**
