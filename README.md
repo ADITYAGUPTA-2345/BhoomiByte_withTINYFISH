@@ -1,4 +1,4 @@
-# 🌱 BhoomiByte
+# 🌱 Crop_Dekho
 
 ### AI-Powered Rice Crop Support Platform
 
