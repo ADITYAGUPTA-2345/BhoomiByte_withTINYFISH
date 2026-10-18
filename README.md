@@ -135,4 +135,4 @@ crop_dekho is intended to support—not replace—professional agricultural advi
 
 ---
 
-**BhoomiByte 🌱 — Smarter Rice Farming Through Machine Learning.**
+**Crop_Dekho 🌱 — Smarter Rice Farming Through Machine Learning.**
